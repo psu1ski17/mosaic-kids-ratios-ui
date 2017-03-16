@@ -1,0 +1,47 @@
+{
+    "backendUrl": "http://localhost:8000/mosaic-kids-ratio/rest/",
+    "defaultWeekend": {
+        "weekend": "Default",
+        "services": {
+            "Arundel": {
+                "campus": "Arundel",
+                "timeSinceFriday": 208800000,
+                "rooms": [
+                    "Nursery", "1 year olds", "2 year olds", "3 year olds", "4 year olds", "Upstreet K1", "Upstreet 23", "Upstreet 45", "Upstreet Buddy"
+                ]
+
+            },
+            "Saturday": {
+                "campus": "Elkridge",
+                "timeSinceFriday": 151200000,
+                "rooms": [
+                    "Nursery", "1 year olds", "2 year olds", "3 year olds", "4 year olds", "Upstreet K1", "Upstreet 23", "Upstreet 45", "Upstreet Buddy"
+                ]
+
+            },
+            "Sunday 1st": {
+                "campus": "Elkridge",
+                "timeSinceFriday": 204300000,
+                "rooms": [
+                    "Nursery", "1 year olds", "2 year olds", "3 year olds", "4 year olds", "Upstreet K1", "Upstreet 23", "Upstreet 45", "Upstreet Buddy"
+                ]
+
+            },
+            "Sunday 2nd": {
+                "campus": "Elkridge",
+                "timeSinceFriday": 209700000,
+                "rooms": [
+                    "Nursery", "1 year olds", "2 year olds", "3 year olds", "4 year olds", "Upstreet K1", "Upstreet 23", "Upstreet 45", "Upstreet Buddy"
+                ]
+
+            },
+            "Sunday 3rd": {
+                "campus": "Elkridge",
+                "timeSinceFriday": 215100000,
+                "rooms": [
+                    "Nursery", "1 year olds", "2 year olds", "3 year olds", "4 year olds", "Upstreet K1", "Upstreet 23", "Upstreet 45", "Upstreet Buddy"
+                ]
+            }
+        }
+    }
+}
